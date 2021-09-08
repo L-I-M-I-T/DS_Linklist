@@ -1,0 +1,2 @@
+C:\Users\dell\source\repos\TestAPP\Debug\TestAPP.pdb
+C:\Users\dell\source\repos\TestAPP\TestAPP\Debug\TestAPP.pdb
